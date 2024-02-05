@@ -1,0 +1,17 @@
+# _config.yml
+
+title: Bio
+description: A brief description of your site
+theme: minima
+url: "https://zxy340.github.io"
+baseurl: "zxy340"
+
+author:
+  name: Xiaoyu Zhang
+  bio: A short bio about yourself
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: pretty
