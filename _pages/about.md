@@ -31,6 +31,8 @@ Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [Stat
 
 # 📝 Publications
 
+<p class="pubnote">High-school students I mentored are <span class="stu">underlined</span>.</p>
+
 <ul class="publist">
 <li>
   <div class="pubbadge"><span class="vbadge">IROS 2026</span></div>
@@ -68,7 +70,7 @@ Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [Stat
   <div class="pubbadge"><span class="vbadge">HealthCom 2026</span></div>
   <div class="pubbody">
     <div class="ptitle">Pool or Specialize? Anatomic-Site Domain Shift in Melanoma Classification</div>
-    <div class="pauthors">N. Wei, A. Xu, and <b>Xiaoyu Zhang</b></div>
+    <div class="pauthors"><span class="stu">Nicholas Wei</span>, <span class="stu">Austin Xu</span>, and <b>Xiaoyu Zhang</b></div>
     <div class="pvenue"><em>In Proceedings of the 2026 IEEE International Conference on E-health Networking, Application &amp; Services</em> 2026<em></em></div>
   </div>
 </li>
