@@ -1,12 +1,10 @@
 name: Get Citation Data
 
-# TODO: 在 _config.yml 填入真实 Google Scholar ID 后,
-# 取消下方 page_build / schedule 的注释即可自动更新引用数
 on:
   workflow_dispatch:
-#  page_build:
-#  schedule:
-#   - cron:  '0 8 * * *'
+  page_build:
+  schedule:
+    - cron: '0 8 * * *'
 
 jobs:
   build:
