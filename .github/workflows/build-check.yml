@@ -19,3 +19,7 @@ jobs:
         run: |
           echo "built files:"; ls -la ./_site | head -20
           test -f ./_site/index.html && echo "OK: index.html generated"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: ./_site
