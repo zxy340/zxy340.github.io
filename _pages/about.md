@@ -10,12 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, co-advised by [Prof. Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/) and [Prof. Yaxiong Xie](https://xieyaxiongfly.github.io/). He received his M.Eng. degree in Electronics and Communication Engineering at the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, advised by Prof. Bin Liu, and his B.Eng. degree in Electronic Information Engineering at Hefei University of Technology, Hefei Anhui, China.
-
-His research builds **multimodal sensing agents** for smart health and social good, spanning three directions: **mmWave sensing and imaging**, turning low-cost commodity radar into a high-resolution instrument for sensing the human body; **multimodal medical AI**, fusing and transferring across imaging and physiological signals where labeled clinical data are scarce; and **robotic perception and autonomous inspection**, assessing material and structural condition non-destructively and closing a control loop on that assessment. One technical question recurs across all three: *when the sensor is cheap and the data are scarce, where should the burden of perception sit — on physics, on learning, or on the hardware aperture?*
-
-He serves as a reviewer for IEEE TMC, ACM HEALTH, IEEE OJEMB, Scientific Reports and Smart Health, and as a reviewer or committee member for ACM CHASE, IEEE BHI, IEEE BSN and PERC. <a href='https://scholar.google.com/citations?user=IXpAX24AAAAJ&hl=en'>Google Scholar citations: <strong><span id='total_cit'>see profile</span></strong></a>.
-
+Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, co-advised by [Prof. Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/) and [Prof. Yaxiong Xie](https://xieyaxiongfly.github.io/). He received his M.Eng. degree in Electronics and Communication Engineering at the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his B.Eng. degree in Electronic Information Engineering at Hefei University of Technology, Hefei Anhui, China. His research interest lies in multimodal sensing agents for smart health and social good, spanning mmWave sensing and imaging, multimodal medical AI, and robotic perception and autonomous inspection. He serves as a reviewer/committee member in ACM CHASE, IEEE BHI, IEEE BSN, and PERC. He also serves as a reviewer for IEEE TMC, ACM HEALTH, IEEE OJEMB, Scientific Reports, and Smart Health.
 
 # 🔥 News
 
