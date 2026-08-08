@@ -12,7 +12,9 @@ redirect_from:
 
 # 🧑 Short Bio
 
-Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, co-advised by [Prof. Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/) and [Prof. Yaxiong Xie](https://xieyaxiongfly.github.io/). He received his M.Eng. degree in Electronics and Communication Engineering at the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his B.Eng. degree in Electronic Information Engineering at Hefei University of Technology, Hefei Anhui, China. His research interest lies in multimodal sensing agents for smart health and social good, spanning mmWave sensing and imaging, multimodal medical AI, and robotic perception and autonomous inspection.
+Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, co-advised by [Prof. Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/) and [Prof. Yaxiong Xie](https://xieyaxiongfly.github.io/). He received his M.Eng. degree in Electronics and Communication Engineering at the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his B.Eng. degree in Electronic Information Engineering at Hefei University of Technology, Hefei Anhui, China.
+
+His research focuses on the convergence of **wireless sensing**, **computational imaging**, and **smart health**. He turns low-cost commodity mmWave radar into a high-resolution imaging instrument for the human body, and the system built in his dissertation now images wounds *through their dressings* at a vascular surgery clinic under an IRB-approved protocol. He works along three lines: mmWave sensing of the human body, multimodal medical AI, and sensing for sustainability.
 
 # 🔥 News
 
@@ -22,7 +24,7 @@ Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [Stat
 <li><span class="ntag pub">Publication</span>One paper is accepted in UbiComp/IMWUT 2026. <span class="ndate">(2026/07)</span></li>
 <li><span class="ntag pub">Publication</span>One first-author paper is accepted in ICIBM 2026. <span class="ndate">(2026/07)</span></li>
 <li><span class="ntag pub">Publication</span>One first-author paper is accepted in IEEE/RSJ IROS 2026. <span class="ndate">(2026/06)</span></li>
-<li><span class="ntag activity">Activity</span>Demonstrated the WaveSight-RF clinical wound-imaging station at the SUNY Research Expo. <span class="ndate">(2026/03)</span></li>
+<li><span class="ntag activity">Activity</span>Demonstrated my mmWave clinical wound-imaging station at the SUNY Research Expo. <span class="ndate">(2026/03)</span></li>
 <li><span class="ntag activity">Activity</span>Ran a Community Engagement Studio at the UB CTSI, gathering design feedback from a 12-member community expert panel. <span class="ndate">(2026/02)</span></li>
 <li><span class="ntag service">Service</span>Serving on the Organizing Committee (Local Arrangements) of ICIBM 2026. <span class="ndate">(2026)</span></li>
 <li><span class="ntag award">Award</span>Our work on RF-based through-dressing wound sensing is selected as a Best Paper Candidate at the International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (HumanSys'25). <span class="ndate">(2025/05)</span></li>
@@ -169,7 +171,7 @@ Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [Stat
 
 # 💬 Talks
 - *2026.07*, Ph.D. Dissertation Defense, University at Buffalo — *Toward High-Resolution and High-Capacity mmWave Sensing Technology for Medical Applications*.
-- *2026.03*, Live demonstration, SUNY Research Expo — WaveSight-RF clinical wound-imaging station.
+- *2026.03*, Live demonstration, SUNY Research Expo — mmWave clinical wound-imaging station.
 - *2026.02*, Community Engagement Studio, UB Clinical and Translational Science Institute (CTSI) — wound-measurement device design review with a 12-member community expert panel.
 - *2025.05*, Invited talk, HumanSys 2025 (ACM SenSys workshop) — Through-dressing Wound Monitoring Based on the mmWave Sensor.
 - *2025.03*, Pitch talk, Panasci Technology Entrepreneurship Competition — Advanced Through-Gauze Wound Assessment Technology.
@@ -177,7 +179,7 @@ Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [Stat
 - *2017.09*, Invited talk, 19th EAI International Conference on Body Area Networks (BodyNets).
 
 # 💻 Experiences
-- *2022.09 - Now*, Clinical research collaborations, University at Buffalo and partner sites, Buffalo, NY, United States. Deployed the WaveSight-RF clinical wound-imaging station at UBMD Vascular Surgery under an IRB-approved protocol, with repeat longitudinal scanning up to 3 months per patient. Curated a 53-patient tri-modal photoacoustic / ultrasound / mammography subset from a 284-patient breast-imaging cohort, and a 27-subject wearable ear-EEG cohort.
+- *2022.09 - Now*, Clinical research collaborations, University at Buffalo and partner sites, Buffalo, NY, United States. Designed, built and deployed a mmWave clinical wound-imaging station at UBMD Vascular Surgery under an IRB-approved protocol, with repeat longitudinal scanning up to 3 months per patient. Curated a 53-patient tri-modal photoacoustic / ultrasound / mammography subset from a 284-patient breast-imaging cohort, and a 27-subject wearable ear-EEG cohort.
 - *2020.07 - 2020.09*, Software engineer intern, China Merchants Bank Software Center, Hangzhou, Zhejiang, China.
 
 # 🧑‍🏫 Teaching
