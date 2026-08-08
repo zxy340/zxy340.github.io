@@ -169,7 +169,7 @@ Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [Stat
 - *2017.09 - 2020.06*, M.Eng. in Electronics and Communication Engineering, University of Science and Technology of China, Hefei, Anhui, China.
 - *2013.09 - 2017.06*, B.Eng. in Electronic Information Engineering, Hefei University of Technology, Hefei, Anhui, China.
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2026.07*, Ph.D. Dissertation Defense, University at Buffalo — *Toward High-Resolution and High-Capacity mmWave Sensing Technology for Medical Applications*.
 - *2026.03*, Live demonstration, SUNY Research Expo — WaveSight-RF clinical wound-imaging station.
 - *2026.02*, Community Engagement Studio, UB Clinical and Translational Science Institute (CTSI) — wound-measurement device design review with a 12-member community expert panel.
