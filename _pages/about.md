@@ -10,7 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, co-advised by [Prof. Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/) and [Prof. Yaxiong Xie](https://xieyaxiongfly.github.io/). He received his M.Eng. degree in Electronics and Communication Engineering at the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his B.Eng. degree in Electronic Information Engineering at Hefei University of Technology, Hefei Anhui, China. His research interest lies in multimodal sensing agents for smart health and social good, spanning mmWave sensing and imaging, multimodal medical AI, and robotic perception and autonomous inspection. He serves as a reviewer/committee member in ACM CHASE, IEEE BHI, IEEE BSN, and PERC. He also serves as a reviewer for IEEE TMC, ACM HEALTH, IEEE OJEMB, Scientific Reports, and Smart Health.
+# 🧑 Short Bio
+
+Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, co-advised by [Prof. Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/) and [Prof. Yaxiong Xie](https://xieyaxiongfly.github.io/). He received his M.Eng. degree in Electronics and Communication Engineering at the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his B.Eng. degree in Electronic Information Engineering at Hefei University of Technology, Hefei Anhui, China. His research interest lies in multimodal sensing agents for smart health and social good, spanning mmWave sensing and imaging, multimodal medical AI, and robotic perception and autonomous inspection.
 
 # 🔥 News
 
