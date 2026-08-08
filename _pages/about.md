@@ -157,7 +157,7 @@ Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [Stat
 </li>
 </ul>
 
-# 🎖 Honors and Awards
+# 🎖 Awards
 - *2025* Best Paper Candidate Award, HumanSys 2025 (ACM SenSys workshop).
 - *2025* Semifinalist, Panasci Technology Entrepreneurship Competition, University at Buffalo.
 - *2024* Graduate Teaching Award, Department of Computer Science and Engineering, University at Buffalo.
