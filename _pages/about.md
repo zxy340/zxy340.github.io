@@ -18,15 +18,19 @@ He serves as a reviewer for IEEE TMC, ACM HEALTH, IEEE OJEMB, Scientific Reports
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 I defended my Ph.D. dissertation, *Toward High-Resolution and High-Capacity mmWave Sensing Technology for Medical Applications*!
-- *2026*: &nbsp;🎉🎉 1 paper accepted by IEEE HealthCom 2026!
-- *2026*: &nbsp;🎉🎉 1 first author paper accepted by IEEE/RSJ IROS 2026!
-- *2026*: &nbsp;🎉🎉 1 paper accepted by ACM IMWUT 2026!
-- *2026*: &nbsp;🎉🎉 1 first author paper accepted by ICIBM 2026!
-- *2026.03*: &nbsp;🎉🎉 Demonstrated the WaveSight-RF clinical wound-imaging station at the SUNY Research Expo!
-- *2026.02*: &nbsp;🎉🎉 Ran a Community Engagement Studio at the UB CTSI with a 12-member community expert panel!
-- *2025*: &nbsp;🎉🎉 1 first author paper received a Best Paper Candidate Award at HumanSys 2025, an ACM SenSys workshop!
-- *2025.03*: &nbsp;🎉🎉 Advanced to the semifinals of the Panasci Technology Entrepreneurship Competition as technical lead and presenter!
+
+<ul class="news-list">
+<li><span class="ntag activity">Activity</span>I defended my Ph.D. dissertation, <i>Toward High-Resolution and High-Capacity mmWave Sensing Technology for Medical Applications</i>. <span class="ndate">(2026/07)</span></li>
+<li><span class="ntag pub">Publication</span>One first-author paper is accepted in IEEE/RSJ IROS 2026. <span class="ndate">(2026)</span></li>
+<li><span class="ntag pub">Publication</span>One paper is accepted in UbiComp/IMWUT 2026. <span class="ndate">(2026)</span></li>
+<li><span class="ntag pub">Publication</span>One first-author paper is accepted in ICIBM 2026. <span class="ndate">(2026)</span></li>
+<li><span class="ntag pub">Publication</span>One paper is accepted in IEEE HealthCom 2026. <span class="ndate">(2026)</span></li>
+<li><span class="ntag activity">Activity</span>Demonstrated the WaveSight-RF clinical wound-imaging station at the SUNY Research Expo. <span class="ndate">(2026/03)</span></li>
+<li><span class="ntag activity">Activity</span>Ran a Community Engagement Studio at the UB CTSI, gathering design feedback from a 12-member community expert panel. <span class="ndate">(2026/02)</span></li>
+<li><span class="ntag service">Service</span>Serving on the Organizing Committee (Local Arrangements) of ICIBM 2026. <span class="ndate">(2026)</span></li>
+<li><span class="ntag award">Award</span>Our work on RF-based through-dressing wound sensing is selected as a Best Paper Candidate at the International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (HumanSys'25). <span class="ndate">(2025)</span></li>
+<li><span class="ntag award">Award</span>Advanced to the semifinals of the Panasci Technology Entrepreneurship Competition as technical lead and presenter. <span class="ndate">(2025/03)</span></li>
+</ul>
 
 # 📝 Publications
 
