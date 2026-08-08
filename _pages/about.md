@@ -178,7 +178,7 @@ Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [Stat
 
 # 💻 Experiences
 - *2022.09 - Now*, Clinical research collaborations, University at Buffalo and partner sites, Buffalo, NY, United States. Deployed the WaveSight-RF clinical wound-imaging station at UBMD Vascular Surgery under an IRB-approved protocol, with repeat longitudinal scanning up to 3 months per patient. Curated a 53-patient tri-modal photoacoustic / ultrasound / mammography subset from a 284-patient breast-imaging cohort, and a 27-subject wearable ear-EEG cohort.
-- *2020.07 - 2020.09*, Software engineer intern, China Merchants Bank Software Center, Shenzhen, Guangdong, China.
+- *2020.07 - 2020.09*, Software engineer intern, China Merchants Bank Software Center, Hangzhou, Zhejiang, China.
 
 # 🧑‍🏫 Teaching
 - *21 Fall, 22 Spring, 22 Fall, 23 Fall, 24 Fall*, Teaching Assistant, Algorithm Analysis and Design, University at Buffalo.
