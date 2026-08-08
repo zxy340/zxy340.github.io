@@ -32,55 +32,131 @@ He serves as a reviewer for IEEE TMC, ACM HEALTH, IEEE OJEMB, Scientific Reports
 <li><span class="ntag award">Award</span>Advanced to the semifinals of the Panasci Technology Entrepreneurship Competition as technical lead and presenter. <span class="ndate">(2025/03)</span></li>
 </ul>
 
-# 📝 Selected Publications
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/pub/iros26.png' alt="mmHeat" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Autonomous Robotic Inspection of Building Thermal Insulation via Subsurface mmWave Sensing**
-
-**Xiaoyu Zhang**, Ye Zhan, Chenhan Xu, Zhengxiong Li, Chuqin Huang, Yanda Cheng, Licheng Liang, Wei Bo, Jun Xia, Chi Zhou, Hongyue Sun, Wenyao Xu. *IEEE/RSJ IROS 2026*
-- A robot builds a synthetic aperture on the wall and inverts subsurface thermal conductivity from mmWave returns, turning surface-only inspection into a volumetric map.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2025</div><img src='images/pub/mmskin.png' alt="mmSkin" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**mmSkin: An Over-gauze Wound Assessment System using Radio Frequency Technologies**
-
-**Xiaoyu Zhang**, Zhengxiong Li, Yanda Cheng, Chenhan Xu, Chuqin Huang, Emma Zhang, Ye Zhan, Wei Bo, Jun Xia, Wenyao Xu. *IEEE Internet of Things Journal 2025*
-- Maps wound moisture *through the dressing* by embedding the signal-to-dielectric law in the estimator, so the map is inverted from scarce data rather than learned. Optical and infrared see only the gauze; mmWave still images the wound.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2025</div><img src='images/pub/mmhand.png' alt="mmHand" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**mmHand: Towards Pixel-Level-Accuracy Hand Localization Using a Single Commodity mmWave Device**
-
-**Xiaoyu Zhang**, Zhengxiong Li, Chenhan Xu, Luchuan Song, Huining Li, Hongfei Xue, Yingxiao Wu, Wenyao Xu. *IEEE Internet of Things Journal 2025*
-- A depth teacher decouples position from pose and size, letting a single commodity radar reach pixel-level hand localization in real time.
-</div>
-</div>
-
-# 📚 Full Publication List
-
-- **Autonomous Robotic Inspection of Building Thermal Insulation via Subsurface mmWave Sensing**. **Xiaoyu Zhang**, Ye Zhan, Chenhan Xu, Zhengxiong Li, Chuqin Huang, Yanda Cheng, Licheng Liang, Wei Bo, Jun Xia, Chi Zhou, Hongyue Sun, Wenyao Xu. *IEEE/RSJ IROS 2026*
-- **Speech Annotation and Transcription Enhancer (SATE): An Automated System for Child Language Sample Analysis**. Shuwei Hou, Wei Bo, L. Cao, Varun Shijo, Chuhui Liu, **Xiaoyu Zhang**, L. Guo, Wenyao Xu. *ACM IMWUT 2026*
-- **Matching Speech Models to ADRD Subtypes: A Mechanistic Benchmark**. **Xiaoyu Zhang**, Wei Bo, Anarghya Das, Longxiang Pan, Wenyao Xu. *ICIBM 2026*
-- **Predictive modeling of chronic foot ulcer outcomes using longitudinal photoacoustic imaging**. Yanda Cheng, Chuqin Huang, Shuliang Yu, Saptarshi Chakraborty, Yunqi Xi, Robert W. Bing, Huijuan Zhang, **Xiaoyu Zhang**, Isabel Komornicki, Linda M. Harris, Wenyao Xu, Jun Xia. *npj Imaging 2026*
-- **Pool or Specialize? Anatomic-Site Domain Shift in Melanoma Classification**. N. Wei, A. Xu, **Xiaoyu Zhang**. *IEEE HealthCom 2026*
-- **mmSkin: An Over-gauze Wound Assessment System using Radio Frequency Technologies**. **Xiaoyu Zhang**, Zhengxiong Li, Yanda Cheng, Chenhan Xu, Chuqin Huang, Emma Zhang, Ye Zhan, Wei Bo, Jun Xia, Wenyao Xu. *IEEE Internet of Things Journal 2025*
-- **mmHand: Towards Pixel-Level-Accuracy Hand Localization Using a Single Commodity mmWave Device**. **Xiaoyu Zhang**, Zhengxiong Li, Chenhan Xu, Luchuan Song, Huining Li, Hongfei Xue, Yingxiao Wu, Wenyao Xu. *IEEE Internet of Things Journal 2025*
-- **Through-dressing Wound Monitoring Based on the mmWave Sensor**. **Xiaoyu Zhang**, Zhengxiong Li, Yanda Cheng, Chenhan Xu, Chuqin Huang, Emma Zhang, Ye Zhan, Wei Bo, Jun Xia, Wenyao Xu. *HumanSys 2025 (ACM SenSys workshop)* <span style="color:#c62828">**(Best Paper Candidate)**</span>
-- **A Comprehensive Survey of Research Trends in mmWave Technologies for Medical Applications**. **Xiaoyu Zhang**, Chuhui Liu, Yanda Cheng, Zhengxiong Li, Chenhan Xu, Chuqin Huang, Ye Zhan, Wei Bo, Jun Xia, Wenyao Xu. *Sensors 2025*
-- **Radiomics-Driven Perfusion Prediction in Clinical Photoacoustic Foot Imaging**. Chuqin Huang, Yanda Cheng, **Xiaoyu Zhang**, Ye Zhan, Wenhan Zheng, Isabel Komornicki, Linda M. Harris, Wenyao Xu, Jun Xia. *Photoacoustics 2025*
-- **Enhanced clinical photoacoustic vascular imaging through a skin localization network and adaptive weighting**. Chuqin Huang, Emily Zheng, Wenhan Zheng, Huijuan Zhang, Yanda Cheng, **Xiaoyu Zhang**, Varun Shijo, Robert W. Bing, Isabel Komornicki, Linda M. Harris, Ermelinda Bonaccio, Kazuaki Takabe, Emma Zhang, Wenyao Xu, Jun Xia. *Photoacoustics 2025*
-- **A Telemedicine Analytic Framework for Fully and Semi-automatic Alzheimer's Disease Screening using Clock Drawing Test**. Wei Bo, Suzanne S. Sullivan, **Xiaoyu Zhang**, Mingchen Gao, Wenyao Xu. *IEEE JBHI 2024*
-- **WavoID: Robust and Secure Multi-modal User Identification via mmWave-voice Mechanism**. Tiantian Liu, Feng Lin, Chao Wang, Chenhan Xu, **Xiaoyu Zhang**, Zhengxiong Li, Wenyao Xu, Ming-Chun Huang, Kui Ren. *ACM UIST 2023*
-- **A Channel Hopping Strategy Based on the Human Trajectory Similarity for WBANs**. **Xiaoyu Zhang**, Bin Liu. *IEEE BSN 2019*
-- **JMMM: A Mobility Model for WBANs Based on Human Joint Movements**. Chengjie Guan, Bin Liu, Zhiqiang Liu, Y. Zhang, **Xiaoyu Zhang**. *EAI BodyNets 2017*
+<ul class="publist">
+<li>
+  <div class="pubbadge"><span class="vbadge">IROS 2026</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Autonomous Robotic Inspection of Building Thermal Insulation via Subsurface mmWave Sensing</div>
+    <div class="pauthors"><b>Xiaoyu Zhang</b>, Ye Zhan, Chenhan Xu, Zhengxiong Li, Chuqin Huang, Yanda Cheng, Licheng Liang, Wei Bo, Jun Xia, Chi Zhou, Hongyue Sun, and Wenyao Xu</div>
+    <div class="pvenue"><em>In Proceedings of the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems</em> 2026<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">IMWUT 2026</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Speech Annotation and Transcription Enhancer (SATE): An Automated System for Child Language Sample Analysis</div>
+    <div class="pauthors">Shuwei Hou, Wei Bo, L. Cao, Varun Shijo, Chuhui Liu, <b>Xiaoyu Zhang</b>, L. Guo, and Wenyao Xu</div>
+    <div class="pvenue"><em>In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em> 2026<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">ICIBM 2026</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Matching Speech Models to ADRD Subtypes: A Mechanistic Benchmark</div>
+    <div class="pauthors"><b>Xiaoyu Zhang</b>, Wei Bo, Anarghya Das, Longxiang Pan, and Wenyao Xu</div>
+    <div class="pvenue"><em>In Proceedings of the 2026 International Conference on Intelligent Biology and Medicine</em> 2026<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">npj Imaging 2026</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Predictive modeling of chronic foot ulcer outcomes using longitudinal photoacoustic imaging</div>
+    <div class="pauthors">Yanda Cheng, Chuqin Huang, Shuliang Yu, Saptarshi Chakraborty, Yunqi Xi, Robert W. Bing, Huijuan Zhang, <b>Xiaoyu Zhang</b>, Isabel Komornicki, Linda M. Harris, Wenyao Xu, and Jun Xia</div>
+    <div class="pvenue"><em>In npj Imaging</em> 2026<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">HealthCom 2026</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Pool or Specialize? Anatomic-Site Domain Shift in Melanoma Classification</div>
+    <div class="pauthors">N. Wei, A. Xu, and <b>Xiaoyu Zhang</b></div>
+    <div class="pvenue"><em>In Proceedings of the 2026 IEEE International Conference on E-health Networking, Application &amp; Services</em> 2026<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">IEEE IoTJ 2025</span></div>
+  <div class="pubbody">
+    <div class="ptitle">mmSkin: An Over-gauze Wound Assessment System using Radio Frequency Technologies</div>
+    <div class="pauthors"><b>Xiaoyu Zhang</b>, Zhengxiong Li, Yanda Cheng, Chenhan Xu, Chuqin Huang, Emma Zhang, Ye Zhan, Wei Bo, Jun Xia, and Wenyao Xu</div>
+    <div class="pvenue"><em>In IEEE Internet of Things Journal</em> 2025<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">IEEE IoTJ 2025</span></div>
+  <div class="pubbody">
+    <div class="ptitle">mmHand: Towards Pixel-Level-Accuracy Hand Localization Using a Single Commodity mmWave Device</div>
+    <div class="pauthors"><b>Xiaoyu Zhang</b>, Zhengxiong Li, Chenhan Xu, Luchuan Song, Huining Li, Hongfei Xue, Yingxiao Wu, and Wenyao Xu</div>
+    <div class="pvenue"><em>In IEEE Internet of Things Journal</em> 2025<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">HumanSys 2025</span>
+  <span class="abadge">Best Paper<br>Candidate</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Through-dressing Wound Monitoring Based on the mmWave Sensor</div>
+    <div class="pauthors"><b>Xiaoyu Zhang</b>, Zhengxiong Li, Yanda Cheng, Chenhan Xu, Chuqin Huang, Emma Zhang, Ye Zhan, Wei Bo, Jun Xia, and Wenyao Xu</div>
+    <div class="pvenue"><em>In Proceedings of the 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (ACM SenSys workshop)</em> 2025<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">Sensors 2025</span></div>
+  <div class="pubbody">
+    <div class="ptitle">A Comprehensive Survey of Research Trends in mmWave Technologies for Medical Applications</div>
+    <div class="pauthors"><b>Xiaoyu Zhang</b>, Chuhui Liu, Yanda Cheng, Zhengxiong Li, Chenhan Xu, Chuqin Huang, Ye Zhan, Wei Bo, Jun Xia, and Wenyao Xu</div>
+    <div class="pvenue"><em>In Sensors</em> 2025<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">Photoacoustics 2025</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Radiomics-Driven Perfusion Prediction in Clinical Photoacoustic Foot Imaging</div>
+    <div class="pauthors">Chuqin Huang, Yanda Cheng, <b>Xiaoyu Zhang</b>, Ye Zhan, Wenhan Zheng, Isabel Komornicki, Linda M. Harris, Wenyao Xu, and Jun Xia</div>
+    <div class="pvenue"><em>In Photoacoustics</em> 2025<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">Photoacoustics 2025</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Enhanced clinical photoacoustic vascular imaging through a skin localization network and adaptive weighting</div>
+    <div class="pauthors">Chuqin Huang, Emily Zheng, Wenhan Zheng, Huijuan Zhang, Yanda Cheng, <b>Xiaoyu Zhang</b>, Varun Shijo, Robert W. Bing, Isabel Komornicki, Linda M. Harris, Ermelinda Bonaccio, Kazuaki Takabe, Emma Zhang, Wenyao Xu, and Jun Xia</div>
+    <div class="pvenue"><em>In Photoacoustics</em> 2025<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">IEEE JBHI 2024</span></div>
+  <div class="pubbody">
+    <div class="ptitle">A Telemedicine Analytic Framework for Fully and Semi-automatic Alzheimer's Disease Screening using Clock Drawing Test</div>
+    <div class="pauthors">Wei Bo, Suzanne S. Sullivan, <b>Xiaoyu Zhang</b>, Mingchen Gao, and Wenyao Xu</div>
+    <div class="pvenue"><em>In IEEE Journal of Biomedical and Health Informatics</em> 2024<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">ACM UIST 2023</span></div>
+  <div class="pubbody">
+    <div class="ptitle">WavoID: Robust and Secure Multi-modal User Identification via mmWave-voice Mechanism</div>
+    <div class="pauthors">Tiantian Liu, Feng Lin, Chao Wang, Chenhan Xu, <b>Xiaoyu Zhang</b>, Zhengxiong Li, Wenyao Xu, Ming-Chun Huang, and Kui Ren</div>
+    <div class="pvenue"><em>In Proceedings of the 2023 ACM Symposium on User Interface Software and Technology</em> 2023<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">IEEE BSN 2019</span></div>
+  <div class="pubbody">
+    <div class="ptitle">A Channel Hopping Strategy Based on the Human Trajectory Similarity for WBANs</div>
+    <div class="pauthors"><b>Xiaoyu Zhang</b>, and Bin Liu</div>
+    <div class="pvenue"><em>In Proceedings of the 2019 IEEE-EMBS International Conference on Body Sensor Networks</em> 2019<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">BodyNets 2017</span></div>
+  <div class="pubbody">
+    <div class="ptitle">JMMM: A Mobility Model for WBANs Based on Human Joint Movements</div>
+    <div class="pauthors">Chengjie Guan, Bin Liu, Zhiqiang Liu, Y. Zhang, and <b>Xiaoyu Zhang</b></div>
+    <div class="pvenue"><em>In Proceedings of the 19th EAI International Conference on Body Area Networks</em> 2017<em></em></div>
+  </div>
+</li>
+</ul>
 
 # 🎖 Honors and Awards
 - *2025* Best Paper Candidate Award, HumanSys 2025 (ACM SenSys workshop).

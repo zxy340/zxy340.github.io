@@ -37,6 +37,29 @@
 .ntag.activity{ color:#7127ba } /* Activity */
 .ntag.grant{ color:#c62828 }    /* Grant */
 .ndate{ color:#6b7280 }
+
+/* ---- Publication list ---- */
+.publist{ list-style:none; padding-left:0; margin:0 }
+.publist>li{ display:flex; gap:22px; align-items:flex-start; padding:14px 0 }
+.pubbadge{ flex:0 0 132px; display:flex; flex-direction:column; align-items:flex-start; gap:6px }
+.vbadge{
+  display:inline-block; background:#b81eb8; color:#fff; font-weight:700;
+  font-size:.82em; letter-spacing:.01em; padding:3px 11px; border-radius:5px;
+  white-space:nowrap;
+}
+.abadge{
+  display:inline-block; border:1.5px solid #b81eb8; color:#b81eb8; font-weight:700;
+  font-size:.74em; padding:2px 8px; border-radius:5px; line-height:1.3; text-align:center;
+}
+.pubbody{ flex:1; min-width:0 }
+.ptitle{ font-size:1.06em; line-height:1.42; margin-bottom:2px }
+.pauthors{ line-height:1.5 }
+.pvenue{ line-height:1.5; color:#333 }
+.pvenue em{ font-style:italic }
+@media (max-width:700px){
+  .publist>li{ flex-direction:column; gap:8px }
+  .pubbadge{ flex:none; flex-direction:row; align-items:center }
+}
 </style>
 
 <!-- end custom head snippets -->
