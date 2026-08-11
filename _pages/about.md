@@ -19,6 +19,7 @@ His research focuses on the convergence of **wireless sensing**, **computational
 # 🔥 News
 
 <ul class="news-list">
+<li><span class="ntag award">Award</span>My first-author IEEE/RSJ IROS 2026 paper received the IEEE IES Students and Young Professionals Paper Assistance (SYPA) Award. <span class="ndate">(2026/08)</span></li>
 <li><span class="ntag pub">Publication</span>One paper is accepted in IEEE HealthCom 2026. <span class="ndate">(2026/08)</span></li>
 <li><span class="ntag activity">Activity</span>I defended my Ph.D. dissertation, <i>Toward High-Resolution and High-Capacity mmWave Sensing Technology for Medical Applications</i>. <span class="ndate">(2026/07)</span></li>
 <li><span class="ntag pub">Publication</span>One paper is accepted in UbiComp/IMWUT 2026. <span class="ndate">(2026/07)</span></li>
@@ -158,6 +159,7 @@ His research focuses on the convergence of **wireless sensing**, **computational
 </ul>
 
 # 🎖 Awards
+- *2026* Students and Young Professionals Paper Assistance (SYPA) Award, IEEE Industrial Electronics Society, for presenting my first-authored paper at IEEE/RSJ IROS 2026.
 - *2025* Best Paper Candidate Award, HumanSys 2025 (ACM SenSys workshop).
 - *2025* Semifinalist, Panasci Technology Entrepreneurship Competition, University at Buffalo.
 - *2024* Graduate Teaching Award, Department of Computer Science and Engineering, University at Buffalo.
