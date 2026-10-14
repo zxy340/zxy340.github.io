@@ -22,6 +22,7 @@ His research focuses on the convergence of **wireless sensing**, **computational
 <li><span class="ntag activity">Activity</span>I presented <i>Autonomous Robotic Inspection of Building Thermal Insulation via Subsurface mmWave Sensing</i> (talk and poster) at IEEE/RSJ IROS 2026 in Pittsburgh, PA. <span class="ndate">(2026/09)</span></li>
 <li><span class="ntag activity">Activity</span>I joined the Department of Computer Science and Engineering at the University at Buffalo as a Postdoctoral Associate, working with Prof. Wenyao Xu. <span class="ndate">(2026/09)</span></li>
 <li><span class="ntag pub">Publication</span>One paper is accepted in ACM HumanSys 2026. <span class="ndate">(2026/08)</span></li>
+<li><span class="ntag pub">Publication</span>One paper is accepted in the ACM MobiCom S3 Workshop 2026. <span class="ndate">(2026/08)</span></li>
 <li><span class="ntag award">Award</span>My first-author IEEE/RSJ IROS 2026 paper received the IEEE IES Students and Young Professionals Paper Assistance (SYPA) Award. <span class="ndate">(2026/08)</span></li>
 <li><span class="ntag pub">Publication</span>One paper is accepted in IEEE HealthCom 2026. <span class="ndate">(2026/08)</span></li>
 <li><span class="ntag activity">Activity</span>I defended my Ph.D. dissertation, <i>Toward High-Resolution and High-Capacity mmWave Sensing Technology for Medical Applications</i>. <span class="ndate">(2026/07)</span></li>
@@ -44,6 +45,14 @@ His research focuses on the convergence of **wireless sensing**, **computational
     <div class="ptitle">A Real-World Study of Sport-Based Support for Autism Spectrum Disorder</div>
     <div class="pauthors">Henry Yang, Emily Liu, <b>Xiaoyu Zhang</b>, Wei Bo, Yutong Wu, Yike Liu, Qun Xie, and Wenyao Xu</div>
     <div class="pvenue"><em>In Proceedings of the 4th International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (ACM MobiCom workshop)</em> 2026<em></em></div>
+  </div>
+</li>
+<li>
+  <div class="pubbadge"><span class="vbadge">ACM S3 2026</span></div>
+  <div class="pubbody">
+    <div class="ptitle">Towards Deployment-Aware Evaluation of COTS mmWave Radar for Privacy-Aware Surveillance</div>
+    <div class="pauthors">Kirtirajsinh Parmar, Liyao Li, <b>Xiaoyu Zhang</b>, Wei Bo, Yaxiong Xie, and Wenyao Xu</div>
+    <div class="pvenue"><em>In Proceedings of the ACM Workshop on Wireless of the Students, by the Students, and for the Students (S3, ACM MobiCom workshop)</em> 2026<em></em></div>
   </div>
 </li>
 <li>
