@@ -12,13 +12,16 @@ redirect_from:
 
 # 🧑 Short Bio
 
-Xiaoyu Zhang received his Ph.D. in Computer Science and Engineering at the [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, co-advised by [Prof. Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/) and [Prof. Yaxiong Xie](https://xieyaxiongfly.github.io/). He received his M.Eng. degree in Electronics and Communication Engineering at the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his B.Eng. degree in Electronic Information Engineering at Hefei University of Technology, Hefei Anhui, China.
+Xiaoyu Zhang is a Postdoctoral Associate in the Department of Computer Science and Engineering at the [State University of New York at Buffalo](https://www.buffalo.edu/), Buffalo NY, United States, working with [Prof. Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/). He received his Ph.D. in Computer Science and Engineering from the University at Buffalo in 2026, co-advised by Prof. Wenyao Xu and [Prof. Yaxiong Xie](https://xieyaxiongfly.github.io/), his M.Eng. degree in Electronics and Communication Engineering from the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei Anhui, China, and his B.Eng. degree in Electronic Information Engineering from Hefei University of Technology, Hefei Anhui, China.
 
 His research focuses on the convergence of **wireless sensing**, **computational imaging**, and **smart health**. He turns low-cost commodity mmWave radar into a high-resolution imaging instrument for the human body, and the system built in his dissertation now images wounds *through their dressings* at a vascular surgery clinic under an IRB-approved protocol. He works along three lines: mmWave sensing of the human body, multimodal medical AI, and sensing for sustainability.
 
 # 🔥 News
 
 <ul class="news-list">
+<li><span class="ntag activity">Activity</span>I presented <i>Autonomous Robotic Inspection of Building Thermal Insulation via Subsurface mmWave Sensing</i> (talk and poster) at IEEE/RSJ IROS 2026 in Pittsburgh, PA. <span class="ndate">(2026/09)</span></li>
+<li><span class="ntag activity">Activity</span>I joined the Department of Computer Science and Engineering at the University at Buffalo as a Postdoctoral Associate, working with Prof. Wenyao Xu. <span class="ndate">(2026/09)</span></li>
+<li><span class="ntag pub">Publication</span>One paper is accepted in ACM HumanSys 2026. <span class="ndate">(2026/08)</span></li>
 <li><span class="ntag award">Award</span>My first-author IEEE/RSJ IROS 2026 paper received the IEEE IES Students and Young Professionals Paper Assistance (SYPA) Award. <span class="ndate">(2026/08)</span></li>
 <li><span class="ntag pub">Publication</span>One paper is accepted in IEEE HealthCom 2026. <span class="ndate">(2026/08)</span></li>
 <li><span class="ntag activity">Activity</span>I defended my Ph.D. dissertation, <i>Toward High-Resolution and High-Capacity mmWave Sensing Technology for Medical Applications</i>. <span class="ndate">(2026/07)</span></li>
@@ -35,6 +38,14 @@ His research focuses on the convergence of **wireless sensing**, **computational
 # 📝 Publications
 
 <ul class="publist">
+<li>
+  <div class="pubbadge"><span class="vbadge">HumanSys 2026</span></div>
+  <div class="pubbody">
+    <div class="ptitle">A Real-World Study of Sport-Based Support for Autism Spectrum Disorder</div>
+    <div class="pauthors">Henry Yang, Emily Liu, <b>Xiaoyu Zhang</b>, Wei Bo, Yutong Wu, Yike Liu, Qun Xie, and Wenyao Xu</div>
+    <div class="pvenue"><em>In Proceedings of the 4th International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems (ACM MobiCom workshop)</em> 2026<em></em></div>
+  </div>
+</li>
 <li>
   <div class="pubbadge"><span class="vbadge">IROS 2026</span></div>
   <div class="pubbody">
@@ -172,6 +183,7 @@ His research focuses on the convergence of **wireless sensing**, **computational
 - *2013.09 - 2017.06*, B.Eng. in Electronic Information Engineering, Hefei University of Technology, Hefei, Anhui, China.
 
 # 💬 Talks
+- *2026.09*, Conference talk and poster, IEEE/RSJ IROS 2026, Pittsburgh, PA — *Autonomous Robotic Inspection of Building Thermal Insulation via Subsurface mmWave Sensing*.
 - *2026.07*, Ph.D. Dissertation Defense, University at Buffalo — *Toward High-Resolution and High-Capacity mmWave Sensing Technology for Medical Applications*.
 - *2026.03*, Live demonstration, SUNY Research Expo — mmWave clinical wound-imaging station.
 - *2026.02*, Community Engagement Studio, UB Clinical and Translational Science Institute (CTSI) — wound-measurement device design review with a 12-member community expert panel.
@@ -181,6 +193,7 @@ His research focuses on the convergence of **wireless sensing**, **computational
 - *2017.09*, Invited talk, 19th EAI International Conference on Body Area Networks (BodyNets).
 
 # 💻 Experiences
+- *2026.09 - Now*, Postdoctoral Associate, Department of Computer Science and Engineering, University at Buffalo, Buffalo, NY, United States. Working with Prof. Wenyao Xu on mmWave sensing of the human body and its clinical translation.
 - *2022.09 - Now*, Clinical research collaborations, University at Buffalo and partner sites, Buffalo, NY, United States. Designed, built and deployed a mmWave clinical wound-imaging station at UBMD Vascular Surgery under an IRB-approved protocol, with repeat longitudinal scanning up to 3 months per patient. Curated a 53-patient tri-modal photoacoustic / ultrasound / mammography subset from a 284-patient breast-imaging cohort, and a 27-subject wearable ear-EEG cohort.
 - *2020.07 - 2020.09*, Software engineer intern, China Merchants Bank Software Center, Hangzhou, Zhejiang, China.
 

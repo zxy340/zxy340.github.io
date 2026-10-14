@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoyu Zhang"
-description              : "Ph.D. in Computer Science and Engineering, University at Buffalo. Wireless sensing, computational imaging, and smart health."
+description              : "Postdoctoral Associate in Computer Science and Engineering, University at Buffalo. Wireless sensing, computational imaging, and smart health."
 repository               : "zxy340/zxy340.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoyu Zhang (张晓屿)"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D."
+  bio              : "Postdoctoral Associate"
   location         : "Buffalo, NY, USA"
   employer         :
   pubmed           : 
