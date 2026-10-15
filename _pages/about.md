@@ -213,5 +213,5 @@ His research focuses on the convergence of **wireless sensing**, **computational
 
 # 🛠 Service
 - *Conference Organization*: Organizing Committee Member (Local Arrangements), ICIBM 2026.
-- *Conference Reviews*: ACM CHASE'25, IEEE BHI'24'26, IEEE BSN'23'24, PERC'26.
+- *Conference Reviews*: ACM CHASE'25, IEEE ICRA'27, IEEE BHI'25'26, IEEE BSN'23'24, PERC'26.
 - *Journal Reviews*: IEEE TMC, ACM HEALTH, IEEE OJEMB, Scientific Reports, Smart Health.
